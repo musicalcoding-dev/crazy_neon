@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'neon';
+  src: url(./public/neon.woff2) format('woff2');
+  font-display: block;
+}
+
+:root {
+  background-color: #141414;
+  color: white;
+
+  --light-100: #f3d8ff;
+  --light-200: #f257f2;
+  --light-300: #e50bc8;
+}
+
+/* Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
