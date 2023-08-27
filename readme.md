@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
 ```shell
-  git clone https://github.com/musicalcoding-dev/public_src/css/Crazy_neon
+  git clone https://github.com/musicalcoding-dev/crazy_neon
 ```
 
 2. **Navigate to the project directory**:
