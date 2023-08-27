@@ -1,7 +1,9 @@
-# Text Neon Project
+# Crazy Neon Project
 
-This project is a demonstration of creating a realistic neon text effect using HTML and CSS. It's built with Vite, a
-fast web development build tool.
+![Neon Text](./public/capture.png)
+
+This repository serves as a starting point for users to fork and follow along with tutorials on the Musical Coding
+YouTube channel.
 
 ## Installation
 
@@ -10,7 +12,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository**:
 
 ```shell
-  git clone https://github.com/musicalcoding-dev/crazy_neon
+  git clone https://github.com/musicalcoding-dev/crazy_neon.git
 ```
 
 2. **Navigate to the project directory**:
